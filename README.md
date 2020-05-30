@@ -1,2 +1,2 @@
 # Civitas
- Adaptation of Monopoly
+ Adaptation of Monopoly.
